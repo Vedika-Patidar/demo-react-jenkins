@@ -9,7 +9,7 @@ function App() {
         <img src={logo} className="App-logo" alt="logo" />
         <h1>Hello all welcome to DevOps classes</h1>
         <h2>hello all thanks for attending DevOps classes</h2>
-        {/* <p>by VSCharan</p> */}
+        <p>by VSCharan</p>
       </header>
     </div>
   );
