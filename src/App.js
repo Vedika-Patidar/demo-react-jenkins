@@ -9,7 +9,7 @@ function App() {
         <img src={logo} className="App-logo" alt="logo" />
         <h1>Hello all welcome to React application</h1>
         <h2>hello all thanks for attending DevOps classes</h2>
-        {/* <p>by VSCharan</p>   */}
+         <p>This is Devops class</p>  
       </header>
     </div>
   );
